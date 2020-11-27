@@ -1,0 +1,7 @@
+*Instalar Microsoft Runtimecompilation y agregar en Startup.cs "services.AddcontrollersWithViews().AddReazorRuntimeCompilation"
+
+*Project Setup
+
+-Crear 3 Projectos de tipo Library core.
+-projectname.DataAccess, projectname.Models y projectname.Utility
+-mover Data folder desde main project to DataAccess project
