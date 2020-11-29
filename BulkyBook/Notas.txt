@@ -5,3 +5,7 @@
 -Crear 3 Projectos de tipo Library core.
 -projectname.DataAccess, projectname.Models y projectname.Utility
 -mover Data folder desde main project to DataAccess project
+
+*Crear Areas
+
+*Utilizar Bootswatch.com
